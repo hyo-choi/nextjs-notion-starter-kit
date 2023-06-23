@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '개발괴발',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'gaebal-goebal.vercel.app',
   author: 'hyo-choi',
 
   // open graph metadata (optional)
